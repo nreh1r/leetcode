@@ -1,6 +1,6 @@
 ---
 tag: code_problem
-time_elapsed: 65
+time_elapsed: 76
 difficulty: medium
 category: stack
 created: 2025-12-14T20:07
