@@ -15,7 +15,7 @@ I was able to get the brute force solution. The optimal solution is still a work
 
 ***Complexity Analysis***
 
-The brute force solution is quite inefficient at `O(n<sup>2</sup>)` time complexity. This is because the brute force solution employs a nested for loop going over all possible rectangle combinations in the input array. The space complexity however is `O(1)` as no additional memory is needed as the input grows (there are just tracking variables used).
+The brute force solution is quite inefficient at `O(n^2)` time complexity. This is because the brute force solution employs a nested for loop going over all possible rectangle combinations in the input array. The space complexity however is `O(1)` as no additional memory is needed as the input grows (there are just tracking variables used).
 
 ```python
 class Solution:
